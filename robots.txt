@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eshiyonahc.theneeds.com/sitemap.xml
